@@ -1,0 +1,14 @@
+body {
+    background-color: aquamarine;
+}
+h1 {
+    font-size: 3rem;
+    color: coral;
+    text-align: center;
+}
+p {
+    color:darkslategrey;
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center
+}

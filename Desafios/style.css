@@ -1,0 +1,15 @@
+.area {
+  display: flex;
+}
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkgray;
+  border-radius: 5px;
+  text-align: center;
+  width: 200px;
+  height: 100px;
+  margin: 1rem;
+}
+
