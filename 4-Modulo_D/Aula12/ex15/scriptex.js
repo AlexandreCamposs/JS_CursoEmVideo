@@ -38,7 +38,7 @@ function verificar() {
         //Adulto
         img.setAttribute("src", "adulto-F.png");
       } else {
-        //Idoso
+        //Idosodddddd
         img.setAttribute("src", "idoso-F.png");
       }
     }
